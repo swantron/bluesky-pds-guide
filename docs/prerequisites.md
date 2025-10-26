@@ -40,7 +40,7 @@ A cloud server to run your PDS.
 
 | Provider | Plan | RAM | Price | Notes |
 |----------|------|-----|-------|-------|
-| [DigitalOcean](https://digitalocean.com) | Basic Droplet | 1 GB | $7/mo | Easy setup, good docs |
+| [DigitalOcean](https://digitalocean.com) | Basic Droplet | 1 GB | $6/mo | Easy setup, good docs |
 | [Vultr](https://vultr.com) | Regular | 1 GB | $6/mo | Similar to DO |
 | [Linode](https://linode.com) | Nanode | 1 GB | $5/mo | Reliable, cheaper |
 | [Hetzner](https://hetzner.com) | CX11 | 2 GB | €4/mo | EU-based, great value |
@@ -84,7 +84,7 @@ Before proceeding, verify you have:
 - [ ] SSH client installed on your computer
   - macOS/Linux: Built-in Terminal
   - Windows: [PuTTY](https://putty.org/) or [Windows Terminal](https://aka.ms/terminal)
-- [ ] Credit card for VPS ($7-12/month)
+- [ ] Credit card for VPS ($6-12/month)
 - [ ] 30-60 minutes of time
 
 ## Optional Items

@@ -18,7 +18,7 @@ This guide walks you through setting up your own **Bluesky PDS** (Personal Data 
 
 **Requirements:**
 - A domain name ($10-15/year)
-- A VPS server ($7/month minimum)
+- A VPS server ($6/month minimum)
 - 30 minutes of your time
 
 **Steps:**
@@ -67,10 +67,10 @@ You'll use Bluesky's shared infrastructure for:
 ## Cost Estimate
 
 - **Domain**: $10-15/year
-- **VPS**: $7-12/month (DigitalOcean, Vultr, Linode)
+- **VPS**: $6-12/month (DigitalOcean, Vultr, Linode)
 - **Email (optional)**: Free tier available (Resend, SendGrid)
 
-**Total**: ~$100-110/year
+**Total**: ~$100/year
 
 ## Architecture
 

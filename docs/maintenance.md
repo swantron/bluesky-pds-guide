@@ -476,7 +476,7 @@ Upgrade when:
 
 | Users | RAM | CPU | Disk | Monthly Cost |
 |-------|-----|-----|------|--------------|
-| 1-20 | 1 GB | 1 core | 25 GB | $7 |
+| 1-20 | 1 GB | 1 core | 25 GB | $6 |
 | 20-50 | 2 GB | 1 core | 50 GB | $12 |
 | 50-100 | 2 GB | 2 cores | 60 GB | $18 |
 | 100+ | 4 GB | 2 cores | 80 GB | $24 |
