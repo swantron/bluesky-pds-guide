@@ -62,7 +62,7 @@ Copy the entire output (starts with `ssh-ed25519`).
 4. **Choose Size:**
    - Click **Droplet Type** → **Basic**
    - Select **Regular** (not Premium)
-   - Choose **$6/month** plan:
+   - Choose **$7/month** plan:
      - 1 GB RAM
      - 1 vCPU
      - 25 GB SSD
@@ -200,7 +200,7 @@ If using Vultr instead of DigitalOcean:
    - Cloud Compute - Shared CPU
 4. **Location:** Choose nearest
 5. **Server Image:** Ubuntu 24.04 LTS x64
-6. **Server Size:** $6/month (1 GB RAM)
+6. **Server Size:** $7/month (1 GB RAM)
 7. **Additional Features:**
    - Enable IPv4
    - Add startup script (same as above)
@@ -212,10 +212,10 @@ Process is nearly identical to DigitalOcean.
 
 | Item | Cost |
 |------|------|
-| Droplet (1 GB) | $6/month |
+| Droplet (1 GB) | $7/month |
 | Bandwidth | Included (1 TB) |
-| Backups (optional) | +20% ($1.20/month) |
-| **Total** | **$6-7.20/month** |
+| Backups (optional) | +20% ($1.40/month) |
+| **Total** | **$7-8.40/month** |
 
 ## Next Steps
 
